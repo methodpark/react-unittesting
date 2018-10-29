@@ -6,7 +6,7 @@ Für die Installation und das Starten der Beispielanwendung wird node.js (versio
 
 Klonen des Repositories (alternativ kann das Repository auch heruntergeladen werden)
 ````shell
-git clone <insert path here> //TODO
+git clone https://github.com/methodpark/react-unittesting
 ````
 
 Installation der Dependencies
