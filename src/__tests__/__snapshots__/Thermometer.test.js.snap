@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render thermo with updates (shallow) should match the snapshot 1`] = `
+<div
+  id="thermometer"
+>
+  <h1>
+    Thermometer
+  </h1>
+  <Temperatur
+    label="Min"
+    value={19.1211}
+  />
+  <Temperatur
+    label="Current"
+    value={20.7123}
+  />
+  <Temperatur
+    label="Max"
+    value={21.2221}
+  />
+</div>
+`;
