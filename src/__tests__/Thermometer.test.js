@@ -62,7 +62,7 @@ describe('render default thermo (shallow)', () => {
     expect(current.props()).toEqual(expected);
   });
 
-  it('should render the min temp', () => {
+  it('should render the max temp', () => {
     const temperature = 20;
   
     const wrapper = shallow(<Thermometer
